@@ -42,3 +42,7 @@ router makes data to go to many paths
 <img width="927" height="864" alt="image" src="https://github.com/user-attachments/assets/b87ccac1-8b02-4f14-a163-1ae23c189279" />
 Add these 3 gemini Ai using personalizer named api key then remane them as LinkedIn personalizer,telegram then facebook and save the scenario till now without making it lost if network goes down. 
 <img width="1911" height="884" alt="image" src="https://github.com/user-attachments/assets/6dd18b46-c2bc-4147-972a-724feac9757d" />
+5)Genrate Platform Specific Content
+-Linkedin module for 1 st branch
+-facebook page module for 2 st branch
+-telegram bot module for 3 st branch
