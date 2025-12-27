@@ -1,6 +1,6 @@
 # AI-Powered Social Media Content Automation using Make
 
-## 📌 Project Overview
+## 📌 Project Overview [📽 Loom Walkthrough Link: https://drive.google.com/file/d/1ZwATHGY1b4NDu-gC1traDE55no2RcgH8/view?usp=drive_link ]
 
 This project demonstrates an **AI-driven automation workflow** built using **Make.com** that automatically collects article links, summarizes content using **Large Language Models (LLMs)**, generates **platform-specific social media posts**, and publishes them simultaneously to **LinkedIn, Facebook, and Telegram**.
 
