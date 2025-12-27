@@ -146,8 +146,6 @@ All posts are published **at the same time**.
 * Enabled scheduler (every 15 minutes).
 * Workflow runs automatically when new content is added.
 * <img width="1529" height="697" alt="image" src="https://github.com/user-attachments/assets/a78ecba4-a82f-4f71-af40-7aa07fc06df4" />
-
-<img width="1834" height="949" alt="image" src="https://github.com/user-attachments/assets/8832c759-4be8-45a4-b95f-739c44bed040" />
 <img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/66629d78-c374-43ce-a868-192c73fac23f" />
 
 ---
