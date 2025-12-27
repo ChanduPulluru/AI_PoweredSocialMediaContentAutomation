@@ -46,3 +46,4 @@ Add these 3 gemini Ai using personalizer named api key then remane them as Linke
 -Linkedin module for 1 st branch
 -facebook page module for 2 st branch
 -telegram bot module for 3 st branch
+6)after connecting all these just save scenario and run it and the content will be posted at same time in all three.
